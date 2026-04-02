@@ -1,0 +1,7 @@
+fastapi==0.115.5
+pydantic-settings==2.6.1
+uvicorn[standard]==0.32.1
+aiosqlite==0.20.0
+sqlalchemy[asyncio]==2.0.30
+alembic==1.13.1
+fastapi-users[sqlalchemy]==13.0.0
